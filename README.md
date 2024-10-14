@@ -18,3 +18,9 @@ Here are some ideas to get you started:
 
 
 I'm currently an IT & Security teacher at Fagskolen Innlandet in Gjøvik, Norway.
+
+<p>&nbsp;</p>
+
+<div id="header" align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTgzaGxrN2Z2aTk5b2lxNXIxdng1bTdya2tvaGhzb2M4bTJjZXRoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SOLL5vaWmuf9k65yYs/giphy.webp" width="100"/>
+</div>
