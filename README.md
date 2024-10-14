@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+I'm currently an IT & Security teacher at Fagskolen Innlandet in Gjøvik, Norway.
